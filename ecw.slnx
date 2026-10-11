@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Itens de Solução/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="ecw/ecw.vcxproj" Id="a3c0409b-0e5e-4451-a6af-07d3ca1cd2cb" />
+</Solution>
